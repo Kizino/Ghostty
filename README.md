@@ -5,3 +5,6 @@ schema.omp.yaml should be placed in "/Users/t0n038s/Library/Application Support/
 Reference: https://github.com/JanDeDobbeleer/oh-my-posh/discussions/5578
 
 Update .zshrc after
+
+
+zsh syntax highlighting: https://github.com/zsh-users/zsh-syntax-highlighting
