@@ -14,3 +14,5 @@ Zsh Syntax Highlighting (zsh-syntax-highlighting)
 Zsh Autosuggestions (zsh-autosuggestions)
 
 Zsh History Substring Search (zsh-history-substring-search)
+
+Zsh Auto Complete (zsh-autocomplete)
