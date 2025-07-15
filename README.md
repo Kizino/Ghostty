@@ -7,4 +7,7 @@ Reference: https://github.com/JanDeDobbeleer/oh-my-posh/discussions/5578
 Update .zshrc after
 
 
-zsh syntax highlighting: https://github.com/zsh-users/zsh-syntax-highlighting
+ZSH Plugin:
+Zsh Syntax Highlighting (zsh-syntax-highlighting)
+Zsh Autosuggestions (zsh-autosuggestions)
+Zsh History Substring Search (zsh-history-substring-search)
